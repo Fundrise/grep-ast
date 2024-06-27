@@ -52,6 +52,7 @@ PARSERS = {
     ".tsx": "typescript",
     ".ts": "typescript",
     ".yaml": "yaml",
+    ".swift": "swift"
 }
 
 
